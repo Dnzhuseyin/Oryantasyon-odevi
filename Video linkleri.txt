@@ -1,0 +1,29 @@
+GİRİLEN SAYININ FAKTÖRİYELİNİ HESAPLAYAN JAVA KODU:
+https://www.youtube.com/watch?v=wOO3eyhDF-o&t=125s&ab_channel=H%C3%BCseyinDeniz
+
+DAİRENİN ALANINI HESAPLAYAN PROGRAMIN JAVA KODU:
+https://www.youtube.com/watch?v=2q6XucyHRAU&ab_channel=H%C3%BCseyinDeniz
+
+100'DEN 1'E KADAR SAYILARI YAZAN JAVA KODU:
+https://www.youtube.com/watch?v=R5hjhvhet_4&t=13s&ab_channel=H%C3%BCseyinDeniz
+
+3' VE 7'YE BÖLÜNEBİLEN SAYILARI YAZAN JAVA KODU:
+https://www.youtube.com/watch?v=1dI4DDPYQGE&ab_channel=H%C3%BCseyinDeniz
+
+2'NİN KUVVETLERİNİ BULAN JAVA KODU:
+https://www.youtube.com/watch?v=P__tHNiLTa0&ab_channel=H%C3%BCseyinDeniz
+
+GİRİLEN SAYININ HANGİSİNİN BÜYÜK OLDUDUĞUNU BULAN PROGRAMIN JAVA KODU:
+https://www.youtube.com/watch?v=cQ-haRJmrTs&t=5s&ab_channel=H%C3%BCseyinDeniz
+
+GİRİLEN SAYININ TEK Mİ ÇİFT Mİ LODUĞUNU BULAN PROGRAMIN JAVA KODU:
+https://www.youtube.com/watch?v=dahj5Th463g&ab_channel=H%C3%BCseyinDeniz
+
+5 İLE BÖLÜNEN SAYILARI BULAN JAVA KODU:
+https://www.youtube.com/watch?v=fglMy1Cf6jE&ab_channel=H%C3%BCseyinDeniz
+
+TOPLAM BULAN PROGRAMIN JAVA KODU:
+https://www.youtube.com/watch?v=pfn4FBkBJqo&ab_channel=H%C3%BCseyinDeniz
+
+GRİLEN SAYIYA GÖRE HAFTA İÇİ Mİ YOKSA HAFTA SONUMU BULAN PROGRAMIN JAVA KODU:
+https://www.youtube.com/watch?v=OKmH9a_Napc&ab_channel=H%C3%BCseyinDeniz
